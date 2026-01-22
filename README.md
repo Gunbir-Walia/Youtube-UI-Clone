@@ -16,7 +16,7 @@ This project is a frontend clone of the YouTube homepage, developed to master th
 ```
 
 ## Technical Implementation
-* **Semantic HTML:** Utilized semantic tags (<header>, <nav>, <main>, <section>) to create a structured, accessible, and SEO-friendly DOM hierarchy.
+* **Semantic HTML:** Utilized semantic tags (`<header>`, `<nav>`, `<main>`, `<section>`) to create a structured, accessible, and SEO-friendly DOM hierarchy.
 * **CSS Grid Layout:** Implemented a robust 2-dimensional grid system for the video feed. The layout automatically adjusts the number of columns based on the viewport width using media queries.
 * **Flexbox Architecture:** Applied Flexbox for one-dimensional layouts, specifically within the header to manage the distribution of the menu, search bar, and user icons.
 * **Advanced Positioning:** Mastered `position: fixed` to keep the header and sidebar visible during scrolling, and `position: absolute` for overlay elements like notification badges and video duration timers.
